@@ -11,6 +11,7 @@ Things I Do
 I am into Web & App Development, Internet of Things.
 
 ![Ameen Arshad Nediya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshadameen00&theme=algolia&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshadameen00&layout=compact)
 
 ## Stack and Tools
 
