@@ -19,7 +19,8 @@ I am into Web & App Development, Internet of Things.
 ![GIF](Error.gif)
 # Get in Touch
 
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-@ameenarshad-%23FF0000.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/><br>]([https://github.com/edisonvalley](https://www.instagram.com/ameen_nediya/))
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-@ameenarshad-%234f5bd5.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/><br>](https://github.com/edisonvalley](https://www.instagram.com/ameen_nediya/)
+[<img alt="facebook" src="[https://img.shields.io/badge/Instagram-@ameenarshad-%4f5bd5.svg?&style=for-the-badge&logo=Instagram&logoColor=white](https://img.shields.io/badge/facebook-@ameenarshad-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)"/><br>](https://www.facebook.com/arshad.n.583/)
 
 
 
