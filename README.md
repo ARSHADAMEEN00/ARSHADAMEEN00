@@ -1,7 +1,7 @@
 
 # Thanks for stopping by 👋
 
- Things I Do
+Things I Do
 ## Project Management. Team Leadership. Development.
 
 - Senior Software Developer at [osperb](https://www.osperb.com)
@@ -18,6 +18,8 @@ I am into Web & App Development, Internet of Things.
 
 ![GIF](Error.gif)
 # Get in Touch
+
+[https://img.shields.io/badge/Instagram-@ameen_nediya-%23FF0000.svg?&style=for-the-badge&logo=Instagram&logoColor=white](https://www.instagram.com/ameen_nediya/)
 
 
 
