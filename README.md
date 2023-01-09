@@ -1,9 +1,6 @@
 
 # Thanks for stopping by 👋
-![Profile Views](https://komarev.com/ghpvc/?username=aaishikasb&label=PROFILE+VIEWS)
-
-### Find me building randomest of things here and scaling communities! 💪
-<br>
+![Profile Views](https://komarev.com/ghpvc/?username=arshadameen00&label=PROFILE+VIEWS)
 
 # Things I Do
 ## Project Management. Team Leadership. Development.
