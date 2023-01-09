@@ -1,5 +1,6 @@
 
 # Thanks for stopping by 👋
+###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">
 
 Things I Do
 ## Project Management. Team Leadership. Development.
