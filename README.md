@@ -1,7 +1,7 @@
 
 # Thanks for stopping by 👋
 
-# Things I Do
+ Things I Do
 ## Project Management. Team Leadership. Development.
 
 - Senior Software Developer at [osperb](https://www.osperb.com)
