@@ -31,7 +31,7 @@ I am into Web & App Development, Internet of Things.
 [<img alt="facebook" src="https://img.shields.io/badge/facebook-@ameenarshad-%234267B2.svg?&style=social&logo=facebook&logoColor=blue"/><br>](https://www.facebook.com/arshad.n.583/)
 [<img alt="twitter" src="https://img.shields.io/badge/twitter-@AmeenarshadN-%231DA1F2.svg?&style=social&logo=twitter&logoColor=blue"/><br>](https://twitter.com/AmeenarshadN)
 
-[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230e76a8.svg?&style=for_the_badge&logo=linkedin&logoColor=white" height=23/>](https://www.linkedin.com/in/ameen-arshad-nediya/)
+[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.linkedin.com/in/ameen-arshad-nediya/)
 
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> <a href="https://www.facebook.com/halemogpa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a> <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> <a href="https://www.youtube.com/watch?v=p0uAJ6Eu4Rs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a> <a href="https://t.me/HalemoGPA"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a></p>
 
