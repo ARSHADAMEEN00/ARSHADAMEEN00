@@ -19,7 +19,7 @@ I am into Web & App Development, Internet of Things.
 ![GIF](Error.gif)
 # Get in Touch
 
-[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-@ameenarshadnediya-%230e76a8.svg?&style=plastic&logo=linkedin&logoColor=black"/><br>](https://www.linkedin.com/in/ameen-arshad-nediya/)
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-@ameenarshadnediya-%230e76a8.svg?&style=for_the_badge&logo=linkedin&logoColor=white"/><br>](https://www.linkedin.com/in/ameen-arshad-nediya/)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-@ameen_nediya-%23FF0000.svg?&style=social&logo=Instagram&logoColor=red"/><br>](https://www.instagram.com/ameen_nediya/)
 [<img alt="facebook" src="https://img.shields.io/badge/facebook-@ameenarshad-%234267B2.svg?&style=social&logo=facebook&logoColor=blue"/><br>](https://www.facebook.com/arshad.n.583/)
 [<img alt="twitter" src="https://img.shields.io/badge/twitter-@AmeenarshadN-%231DA1F2.svg?&style=social&logo=twitter&logoColor=blue"/><br>](https://twitter.com/AmeenarshadN)
