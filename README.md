@@ -1,6 +1,6 @@
 
-# Thanks for stopping by 👋
 
+https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=178D9F&width=435&lines=This+is;Ameen+Arshad+Nediya;Thank+you+for+stopping+by+%F0%9F%91%8B)
 
 Things I Do
 ## Project Management. Team Leadership. Development.
