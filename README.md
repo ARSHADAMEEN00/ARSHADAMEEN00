@@ -1,6 +1,5 @@
 
 # Thanks for stopping by 👋
-![Profile Views](https://komarev.com/ghpvc/?username=arshadameen00&label=PROFILE+VIEWS)
 
 # Things I Do
 ## Project Management. Team Leadership. Development.
