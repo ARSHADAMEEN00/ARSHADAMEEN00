@@ -20,6 +20,4 @@ I am into Web & App Development, Internet of Things.
 # Get in Touch
 
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-in/aaishika-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><br>](https://github.com/edisonvalley)
-<img alt="Twitter" src="https://img.shields.io/badge/TWITTER - aaishika-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <br>
 
