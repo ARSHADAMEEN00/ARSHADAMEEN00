@@ -19,7 +19,9 @@ I am into Web & App Development, Internet of Things.
 ![GIF](Error.gif)
 # Get in Touch
 
-[https://img.shields.io/badge/Instagram-@ameen_nediya-%23FF0000.svg?&style=for-the-badge&logo=Instagram&logoColor=white](https://www.instagram.com/ameen_nediya/)
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-@ameenarshad-%23FF0000.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/><br>]([https://github.com/edisonvalley](https://www.instagram.com/ameen_nediya/))
+
+
 
 
 
