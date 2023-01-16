@@ -12,8 +12,8 @@ Things I Do
 - Senior Software Developer at [osperb](https://www.osperb.com)
 - Be a mentor to budding developers at [EdisonValley](https://github.com/edisonvalley) and help them be better developers
 
-# Let's Talk Numbers and Stats
-I am into Web & App Development, Internet of Things.
+<!-- # Let's Talk Numbers and Stats
+I am into Web & App Development, Internet of Things. -->
 
 <!-- ![Ameen Arshad Nediya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARSHADAMEEN00&theme=algolia&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARSHADAMEEN00&layout=compact&theme=algolia&show_icons=true)
