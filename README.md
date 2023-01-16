@@ -24,7 +24,7 @@ I am into Web & App Development, Internet of Things. -->
 
 <p align="start">
   <a href="#!">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,nextjs,graphql,html,css,bootstrap,express,figma,git,github,materialui,netlify,mongodb,tailwind,styledcomponents,sass,visualstudio,redux,jquery,firebase,electron" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,nextjs,graphql,html,css,bootstrap,figma,git,github,materialui,netlify,mongodb,tailwind,styledcomponents,sass,visualstudio,redux,jquery,firebase,electron" />
   </a>
 </p>
 
