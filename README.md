@@ -40,4 +40,4 @@ I am into Web & App Development, Internet of Things. -->
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23/>](https://github.com/ARSHADAMEEN00/)
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23/>](https://t.me/Ameen_hbz)
 
-
+Check out my resume https://resume.io/r/5achuOHnB
